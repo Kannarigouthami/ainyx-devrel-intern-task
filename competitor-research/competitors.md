@@ -122,7 +122,7 @@ Netlify takes care of one of the stack's components. Clode aims at making it eas
 1. “Transitioning from static sites to real infrastructure: what alterations?”
 2. “The simplicity of Jamstack is not an appropriate scale for all workloads”
 
-##​‍​‌‍​‍‌ Company 4: AWS Elastic Beanstalk
+## Company 4: AWS Elastic Beanstalk
 
 - Website: https://aws.amazon.com/elasticbeanstalk/
 
@@ -182,7 +182,7 @@ Cloud-native tools might make the initial setup a breeze, but they still require
 
 2. “Provisioning is a piece of cake, but operating is ​‍​‌‍​‍‌different”
 
-##​‍​‌‍​‍‌ Company 5: Render
+## Company 5: Render
 
 - Website: https://render.com
 
@@ -243,7 +243,7 @@ Render makes it easy for new startups to deploy. Clode enables teams to scale wi
 2. “Building infrastructure not for demos but for ​‍​‌‍​‍‌growth”
 
 
-### Company 6: Terraform (HashiCorp)
+## Company 6: Terraform (HashiCorp)
 
 - Website: https://www.terraform.io
 
