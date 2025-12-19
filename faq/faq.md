@@ -19,5 +19,5 @@ No. This completes the CI/CD process by dealing with events that occur after cod
 ## Q5: Who is Clode best suited for?
 
 Startups or lean engineering teams that aim to minimize the cost of DevOps without sacrificing control.
-# Q6: Does Clode only cater to early-stage startups?
+## Q6: Does Clode only cater to early-stage startups?
 In many No. It’s meant for supporting teams from the early phase through scaling without re-architecting. # Q7: What setup effort does Clode involve? Compared to the integration of multiple DevOps and infrastructure technologies via stitching. Q8: In what way does it differ from managed platforms? Managed platforms are platforms that optimize for simplicity but constrain flexibility. Clode maintains flexibility and automates processes. ## Q9: Does Clode include observability? Clode is positioned right next to observability and concentrates on automating day-to-day workflows that are guided by signals. ## Q10: Why can't everything just be built to exist solely on the cloud? Direct cloud configurations provide flexibility but involve a lot of operational overhead, of which Clode mitigates.
