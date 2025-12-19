@@ -1,7 +1,6 @@
 # Blog Outline
 
-## Title
-Why Startups Struggle to Balance Speed and Control in the Cloud
+## Title : Why Startups Struggle to Balance Speed and Control in the Cloud
 
 ## Introduction
 - Modern startups are expected to ship fast with small teams
