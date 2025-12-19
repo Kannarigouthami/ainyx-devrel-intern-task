@@ -1,6 +1,6 @@
-# Developer FAQs & Objections
+## Developer FAQs & Objections
 
-Q1: Can Clode simply be categorized under PaaS?
+## Q1: Can Clode simply be categorized under PaaS?
 
 No. Clode automates infrastructure and operations without completely abstracting away cloud details.
 
